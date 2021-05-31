@@ -1,0 +1,12 @@
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\net5.0\EmployeeHierarchy.deps.json
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\net5.0\EmployeeHierarchy.dll
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\net5.0\ref\EmployeeHierarchy.dll
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\bin\Debug\net5.0\EmployeeHierarchy.pdb
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\net5.0\EmployeeHierarchy.csprojAssemblyReference.cache
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\net5.0\EmployeeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\net5.0\EmployeeHierarchy.AssemblyInfoInputs.cache
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\net5.0\EmployeeHierarchy.AssemblyInfo.cs
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\net5.0\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\net5.0\EmployeeHierarchy.dll
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\net5.0\ref\EmployeeHierarchy.dll
+C:\Users\Jhpiego Nairobi\source\repos\EmployeeHierarchy\EmployeeHierarchy\obj\Debug\net5.0\EmployeeHierarchy.pdb
